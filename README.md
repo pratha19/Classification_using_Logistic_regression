@@ -1,2 +1,2 @@
-# mini_project_10.2_Logistic_regression
+# Logistic_regression deep dive 
  Logisitc regression mini-poject
